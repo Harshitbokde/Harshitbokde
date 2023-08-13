@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Harshitbokde
-- 👀 I’m interested in computer languages 
+- 👀 I’m interested in exploring New Things 
 - 🌱 I’m currently learning HTML 
-- 📫 How to reach me intagram id :harshitbokde
+- 📫 How to reach me 
+harshitbokde@gmail.com
 
 <!---
 Harshitbokde/Harshitbokde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
